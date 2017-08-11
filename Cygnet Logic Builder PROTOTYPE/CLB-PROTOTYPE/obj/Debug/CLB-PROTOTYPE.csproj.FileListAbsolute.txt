@@ -1,0 +1,9 @@
+c:\users\kasoni\documents\visual studio 2017\Projects\Cygnet Logic Builder PROTOTYPE\CLB-PROTOTYPE\bin\Debug\CLB-PROTOTYPE.exe.config
+c:\users\kasoni\documents\visual studio 2017\Projects\Cygnet Logic Builder PROTOTYPE\CLB-PROTOTYPE\bin\Debug\CLB-PROTOTYPE.exe
+c:\users\kasoni\documents\visual studio 2017\Projects\Cygnet Logic Builder PROTOTYPE\CLB-PROTOTYPE\bin\Debug\CLB-PROTOTYPE.pdb
+c:\users\kasoni\documents\visual studio 2017\Projects\Cygnet Logic Builder PROTOTYPE\CLB-PROTOTYPE\obj\Debug\CLB-PROTOTYPE.csprojResolveAssemblyReference.cache
+c:\users\kasoni\documents\visual studio 2017\Projects\Cygnet Logic Builder PROTOTYPE\CLB-PROTOTYPE\obj\Debug\CLB_PROTOTYPE.Form1.resources
+c:\users\kasoni\documents\visual studio 2017\Projects\Cygnet Logic Builder PROTOTYPE\CLB-PROTOTYPE\obj\Debug\CLB_PROTOTYPE.Properties.Resources.resources
+c:\users\kasoni\documents\visual studio 2017\Projects\Cygnet Logic Builder PROTOTYPE\CLB-PROTOTYPE\obj\Debug\CLB-PROTOTYPE.csproj.GenerateResource.Cache
+c:\users\kasoni\documents\visual studio 2017\Projects\Cygnet Logic Builder PROTOTYPE\CLB-PROTOTYPE\obj\Debug\CLB-PROTOTYPE.exe
+c:\users\kasoni\documents\visual studio 2017\Projects\Cygnet Logic Builder PROTOTYPE\CLB-PROTOTYPE\obj\Debug\CLB-PROTOTYPE.pdb

@@ -7,3 +7,12 @@ c:\users\kasoni\documents\visual studio 2017\Projects\Cygnet Logic Builder PROTO
 c:\users\kasoni\documents\visual studio 2017\Projects\Cygnet Logic Builder PROTOTYPE\CLB-PROTOTYPE\obj\Debug\CLB-PROTOTYPE.csproj.GenerateResource.Cache
 c:\users\kasoni\documents\visual studio 2017\Projects\Cygnet Logic Builder PROTOTYPE\CLB-PROTOTYPE\obj\Debug\CLB-PROTOTYPE.exe
 c:\users\kasoni\documents\visual studio 2017\Projects\Cygnet Logic Builder PROTOTYPE\CLB-PROTOTYPE\obj\Debug\CLB-PROTOTYPE.pdb
+E:\personalGIt\LogicBuilder\Cygnet Logic Builder PROTOTYPE\CLB-PROTOTYPE\bin\Debug\CLB-PROTOTYPE.exe.config
+E:\personalGIt\LogicBuilder\Cygnet Logic Builder PROTOTYPE\CLB-PROTOTYPE\bin\Debug\CLB-PROTOTYPE.exe
+E:\personalGIt\LogicBuilder\Cygnet Logic Builder PROTOTYPE\CLB-PROTOTYPE\bin\Debug\CLB-PROTOTYPE.pdb
+E:\personalGIt\LogicBuilder\Cygnet Logic Builder PROTOTYPE\CLB-PROTOTYPE\obj\Debug\CLB-PROTOTYPE.csprojResolveAssemblyReference.cache
+E:\personalGIt\LogicBuilder\Cygnet Logic Builder PROTOTYPE\CLB-PROTOTYPE\obj\Debug\CLB_PROTOTYPE.Form1.resources
+E:\personalGIt\LogicBuilder\Cygnet Logic Builder PROTOTYPE\CLB-PROTOTYPE\obj\Debug\CLB_PROTOTYPE.Properties.Resources.resources
+E:\personalGIt\LogicBuilder\Cygnet Logic Builder PROTOTYPE\CLB-PROTOTYPE\obj\Debug\CLB-PROTOTYPE.csproj.GenerateResource.Cache
+E:\personalGIt\LogicBuilder\Cygnet Logic Builder PROTOTYPE\CLB-PROTOTYPE\obj\Debug\CLB-PROTOTYPE.exe
+E:\personalGIt\LogicBuilder\Cygnet Logic Builder PROTOTYPE\CLB-PROTOTYPE\obj\Debug\CLB-PROTOTYPE.pdb
